@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "liveServer.settings.port": 5503,
+}
